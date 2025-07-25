@@ -1,5 +1,6 @@
 # 🎲 Zar Oyunu | Dice Game 🎮  
-**Developed by Özgür Kadakal**
+
+### - Developed by Özgür Kadakal
 
 **⚠️ Önemli:** İndirdiğiniz `.zip` dosyasını ayıklayıp projeyi bu şekilde açınız. Aksi takdirde proje düzgün şekilde çalışmayabilir.
 
