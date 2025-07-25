@@ -22,6 +22,9 @@
 ---
 
 🌍 English  
+
+---
+
 🎲 Dice Game  
 A simple and fun dice rolling game developed using C# and Windows Forms by Özgür Kadakal.
 
@@ -36,6 +39,9 @@ A simple and fun dice rolling game developed using C# and Windows Forms by Özg�
 ---
 
 🇹🇷 Türkçe  
+
+---
+
 🎲 Zar Oyunu  
 C# ve Windows Forms kullanılarak Özgür Kadakal tarafından geliştirilmiş basit ve eğlenceli bir zar atma oyunudur.
 
