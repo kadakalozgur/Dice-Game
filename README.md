@@ -1,9 +1,9 @@
 # 🎲 Zar Oyunu | Dice Game 🎮  
 **Developed by Özgür Kadakal**
 
-> ⚠️ **Önemli / Important:**  
-> Lütfen indirdiğiniz `.zip` dosyasını çıkartarak projeyi açınız. Aksi halde uygulama düzgün çalışmayabilir.  
-> Please extract the downloaded `.zip file` before opening the project. Otherwise, the application may not work properly.
+**⚠️ Önemli:** İndirdiğiniz `.zip` dosyasını ayıklayıp projeyi bu şekilde açınız. Aksi takdirde proje düzgün şekilde çalışmayabilir.
+
+**⚠️ Important:** Please extract the downloaded `.zip` file before opening the project. Otherwise, it may not work properly.
 
 ---
 
