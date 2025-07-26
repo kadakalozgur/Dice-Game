@@ -31,7 +31,8 @@ A simple and fun dice rolling game developed using C# and Windows Forms by Özg�
 - 🎵 Background music on the main menu  
 - 🔊 Sound effects for dice rolling and button interactions  
 - 🎨 Hover effects on buttons for better user experience  
-- 🎲 Animated dice roll with smooth animation  
+- 🎲 Animated dice roll with smooth animation
+- 🖱️ Unique themed cursor that changes dynamically within the game
 - 🔄 Easy-to-use main menu navigation  
 
 ---
@@ -46,7 +47,8 @@ C# ve Windows Forms kullanılarak Özgür Kadakal tarafından geliştirilmiş ba
 - 🎵 Ana menüde arka plan müziği  
 - 🔊 Zar atma ve buton etkileşim ses efektleri  
 - 🎨 Butonlarda hover efektleri ile görsel zenginlik  
-- 🎲 Zar atma animasyonu  
+- 🎲 Zar atma animasyonu
+- 🖱️ Oyun içinde dinamik olarak değişen temalı imleç tasarımı
 - 🔄 Kullanımı kolay ana menü navigasyonu  
 
 ---
