@@ -31,7 +31,10 @@ A simple and fun dice rolling game developed using C# and Windows Forms by Özg�
 - 🎨 Hover effects on buttons for better user experience  
 - 🎲 Animated dice roll with smooth animation  
 - 🖱️ Unique themed cursor that changes dynamically within the game  
-- 🔄 Easy-to-use main menu navigation  
+- 🔄 Easy-to-use main menu navigation
+
+🧑‍💻 *This project was developed from scratch by Özgür Kadakal.*  
+📌 *All code and assets are original.*
 
 ---
 
@@ -74,7 +77,10 @@ C# ve Windows Forms kullanılarak Özgür Kadakal tarafından geliştirilmiş ba
 - 🎨 Butonlarda hover efektleri ile görsel zenginlik  
 - 🎲 Zar atma animasyonu  
 - 🖱️ Oyun içinde dinamik olarak değişen temalı imleç tasarımı  
-- 🔄 Kullanımı kolay ana menü navigasyonu  
+- 🔄 Kullanımı kolay ana menü navigasyonu
+
+🧑‍💻 *Bu proje Özgür Kadakal tarafından sıfırdan geliştirilmiştir.*  
+📌 *Tüm kodlar ve içerikler özgündür.*
 
 ---
 
